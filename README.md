@@ -17,4 +17,3 @@
 |April_Fools|D|[Broken_Checker](https://codeforces.com/contest/171/problem/D)|[C++](./solutions/April_Fools/D%5BBroken%5FChecker%5D.cpp)
 |Croc_Champ_R2|B|[NUmber_Of_Triplets](https://codeforces.com/problemset/problem/181/B)|[C++](./solutions/Croc_Champ_R2/B%5BNumber%5FOf%5FTriplets%5D.cpp)
 
-april fool
