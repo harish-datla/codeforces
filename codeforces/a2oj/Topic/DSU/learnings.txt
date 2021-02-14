@@ -1,0 +1,3 @@
+path compression
+can be used to find things in o(logn)(using find_set only or in unison with union_set, depends on application)
+can be used for connected components
